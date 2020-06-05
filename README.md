@@ -5,6 +5,7 @@ https://crown-clothing-stores.herokuapp.com/
 
 ## Technologies
 1. React.js (Frontend)
-2. Sass (Styling)
+2. Sass and Styled Components (Styling)
 3. Redux (State Management)
 4. Firebase (Database)
+5. Stripe API (Payment)
